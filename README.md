@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @MuhammadSahimBhaur
-- 👀 I’m interested in web development and the cloud.
-- 🌱 I’m currently learning big data (hadoop), data visualization.
-- 💞️ I’m looking to collaborate on anything related to machine learning.
+- 👀 I’m interested in web development and the ☁️ cloud.
+- 🌱 I’m currently learning big data (hadoop) 🤓, data visualization (✨ data science ✨).
 - 📫 How to reach me -> sahimbhaur@outlook.com
 
 <!---
